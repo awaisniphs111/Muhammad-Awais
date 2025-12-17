@@ -33,6 +33,3 @@
 - Build strong cybersecurity fundamentals
 - Move toward Red Team / penetration testing
 - Create a solid public learning portfolio
-
-- Email: alihamza.engineer01@gmail.com
-- LinkedIn: (add when ready)
